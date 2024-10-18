@@ -1,0 +1,30 @@
+
+
+.nav-link {
+    transition: all 0.5s ease; 
+  }
+  
+
+  .dashboard-link:hover {
+    color: #ff6347; 
+    text-decoration: underline;
+  }
+  
+  
+  .manage-habits-link:hover {
+    color: #32cd32; 
+    text-decoration: underline;
+  }
+  
+  
+  .tracker-link:hover {
+    color: #1e90ff; 
+    text-decoration: underline;
+  }
+  
+ 
+  .notification-link:hover {
+    color: #ff69b4; 
+    text-decoration: underline;
+  }
+  
